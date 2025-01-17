@@ -1,0 +1,16 @@
+{
+  "name": "ticket_system",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "dotenv": "^16.4.7"
+  }
+}
